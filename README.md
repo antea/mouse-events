@@ -1,3 +1,6 @@
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/mouse-events-extension)
+[![Stars on Vaadin Directory](https://img.shields.io/vaadin-directory/star/mouse-events-extension.svg)](https://vaadin.com/directory/component/mouse-events-extension)
+
 # Mouse Events Add-on for Vaadin 7
 
 This is a component extension that allows you to add mouseover and mouseout event listeners to any component.
