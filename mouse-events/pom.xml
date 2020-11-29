@@ -211,7 +211,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub antea Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/antea/ignite-hibernate_5.4</url>
+			<url>https://maven.pkg.github.com/antea/packages</url>
 		</repository>
 	</distributionManagement>
 
